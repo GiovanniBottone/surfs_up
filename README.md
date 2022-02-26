@@ -18,13 +18,13 @@ Although December had 11% less observations than June, 1,517 observations rangin
 ![December Temps](https://user-images.githubusercontent.com/95371617/155857275-ce4b6a22-3565-4a5d-a657-2c8c5357c95f.png)
 
 ### June vs December Results
-**June has consistently warmer temperatures than December
+* June has consistently warmer temperatures than December
 
-**Junes minimum temperature (64) is 8 degrees warmer than Decembers (56)
+* Junes minimum temperature (64) is 8 degrees warmer than Decembers (56)
 
-**Junes mean temperature (74.9) is 3.86 degrees warmer than Decembers mean temperature (71.04)
+* Junes mean temperature (74.9) is 3.86 degrees warmer than Decembers mean temperature (71.04)
 
-**Junes maximum temperature (85) is 2 degrees higher than Decembers (83)
+* Junes maximum temperature (85) is 2 degrees higher than Decembers (83)
 
 
 ### Summary
