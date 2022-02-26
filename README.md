@@ -1,7 +1,9 @@
 # surfs_up
 
 ## Overview of Analysis
-The purpose of this analysis was to gather and analyze the weather temperature trends of June and December for Oahu, Hawaii for our friend W. Avy who dreams of opening an Ice Cream parlor and surfing year round. Our statistical analysis will help W. Avy determine if their dream ice cream business is sustainable year-round. The full analysis can be seen at: https://github.com/GiovanniBottone/surfs_up/blob/main/SurfsUp_Challenge.ipynb
+The purpose of this analysis was to gather and analyze the weather temperature trends of June and December for Oahu, Hawaii for our friend W. Avy who dreams of opening an Ice Cream parlor and surfing year round. Our statistical analysis will help W. Avy determine if their dream ice cream business is sustainable year-round. 
+
+The full analysis can be seen at: https://github.com/GiovanniBottone/surfs_up/blob/main/SurfsUp_Challenge.ipynb
 
 ## Results
 ### June Temperature Results
@@ -17,8 +19,11 @@ Although December had 11% less observations than June, 1,517 observations rangin
 
 ### June vs December Results
 **June has consistently warmer temperatures than December
+
 **Junes minimum temperature (64) is 8 degrees warmer than Decembers (56)
+
 **Junes mean temperature (74.9) is 3.86 degrees warmer than Decembers mean temperature (71.04)
+
 **Junes maximum temperature (85) is 2 degrees higher than Decembers (83)
 
 
