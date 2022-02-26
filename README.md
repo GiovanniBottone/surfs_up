@@ -35,12 +35,12 @@ As with any business, identifying "busy" hours is essential for longevity, which
 An additional query to consider for further research is precipitation levels in Oahu. Once we've gathered participation statistics, W. Avy can determine if there is a rain season in Oahu which would impact the businesses year round sustainability. Also, this information could determine the ideal location for stand(s) in Oahu, certain areas of the island will experience less precipitation than others, and W. Avy can prioritize those locations to minimize all weather risks and maximize profits.
 
 ### Resources
-**Jupyter Notebook
-**Python v3.10
+* Python v3.10
+* Jupyter Notebook
 
 ### Dependencies
-**Pandas
-**Numpy
-**Datetime
-**SQLAlchemy
-**https://github.com/GiovanniBottone/surfs_up/blob/main/hawaii.sqlite
+* Numpy
+* Pandas
+* Datetime
+* SQLAlchemy
+* https://github.com/GiovanniBottone/surfs_up/blob/main/hawaii.sqlite
