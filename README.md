@@ -43,3 +43,4 @@ An additional query to consider for further research is precipitation levels in 
 **Numpy
 **Datetime
 **SQLAlchemy
+**https://github.com/GiovanniBottone/surfs_up/blob/main/hawaii.sqlite
